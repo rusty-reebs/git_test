@@ -1,1 +1,1 @@
-This is rusty-reeds's first git project!
+This is rusty-reebs's first git project!
